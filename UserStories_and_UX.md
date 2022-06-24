@@ -1,0 +1,2 @@
+The app can be used for managing workplaces. It can be used to assign tasks to employees of the workplace. A newly registered user has the option to add a workplace or join an existing workplace using the workplace id generated during workplace creation. The employees of the app can view the tasks and feedbacks provided by the ownerand relevant details.
+The owner has the power to mark a task as complete or simply submit remarks.
